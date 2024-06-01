@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.shree.restaurantsearchservice</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>lnt</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Restaurant_Search_Service</name>
 	<description>created the service for the Restaurant_Search_Service</description>
