@@ -18,5 +18,5 @@ public class Address {
     private String street2;
     private String city;
     private Long pinCode;
-    private Long state;
+    private String state;
 }
